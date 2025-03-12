@@ -22,7 +22,7 @@ const Index = () => {
       <div className="flex-1 flex flex-col items-center justify-center">
         <div className="w-full bg-white/70 backdrop-blur-sm rounded-xl p-4 mb-6 flex items-center justify-between">
           <h1 className="text-2xl md:text-3xl font-bold text-center flex-1">
-            مسابقة الأسئلة
+            مسابقة رسلان و المهرة الرمضانية
           </h1>
           <Button
             variant="outline"
